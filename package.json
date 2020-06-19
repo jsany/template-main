@@ -1,7 +1,7 @@
 {
-  "name": "template-main",
-  "version": "1.0.0",
-  "description": "main project(master)",
+  "name": "{{projectName}}",
+  "version": "{{projectVersion}}",
+  "description": "{{projectDescription}}",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
